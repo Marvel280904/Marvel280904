@@ -29,7 +29,7 @@
 - 💼 Currently interning at **PT AICA INDRIA** as a **UI/UX Designer & Full-Stack Developer**  
 - 🧠 Hardworking, diligent, honest, and always eager to learn  
 - 💻 Passionate about **coding** — I love **creating, building, and shipping** useful things.
-- 🎮🏃‍♂️ Into **games/sports** with strong **sportsmanship** and **competitiveness**.  
+- 🏃‍♂️ Into **games/sports** with strong **sportsmanship** and **competitiveness**.  
 - 💪 Determined, principle-driven, and resilient—**never give up**  
 - 🌱 Aspiring to build **useful innovations** that make a positive impact on society
 
