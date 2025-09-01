@@ -61,9 +61,10 @@
 ---
 
 ### 🎯 Focus Areas
-- UI/UX design → thoughtful, user-centered flows and wireframes  
+- UI/UX design → thoughtful, user-centered flows and wireframes
+- Software Engineer → clean architecture, OOP/SOLID, design patterns, unit testing, CI/CD  
 - Full-stack web → clean, maintainable backends & responsive frontends  
-- Laravel apps → RESTful APIs, auth, Blade/Tailwind, MySQL schemas
+- Laravel apps → RESTful APIs, auth, Blade/Bootstarp, MySQL schemas
 
 ---
 
