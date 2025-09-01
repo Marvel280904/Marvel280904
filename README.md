@@ -28,7 +28,8 @@
 - 🎓 21-year-old, 7th semester student majoring in **Information Systems & Business** at **Universitas Ciputra**  
 - 💼 Currently interning at **PT AICA INDRIA** as a **UI/UX Designer & Full-Stack Developer**  
 - 🧠 Hardworking, diligent, honest, and always eager to learn  
-- 🏃‍♂️ Big passion for **sports**, strong **sportsmanship** and **competitiveness**  
+- 💻 Passionate about **coding** — I love **creating, building, and shipping** useful things.
+- 🎮🏃‍♂️ Into **games/sports** with strong **sportsmanship** and **competitiveness**.  
 - 💪 Determined, principle-driven, and resilient—**never give up**  
 - 🌱 Aspiring to build **useful innovations** that make a positive impact on society
 
