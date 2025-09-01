@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" alt="Developer at work banner" width="100%" />
   <h1>Hi, I'm <span style="color:#4F46E5;">Marvel Hans Surjana</span> 👋</h1>
-  <p><em>UI/UX Designer & Full-Stack Developer • 6th-semester Information Systems & Business student @ Universitas Ciputra</em></p>
+  <p><em>Software Engineer & Full-Stack Developer • 7th-semester Information Systems & Business student @ Universitas Ciputra</em></p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=marvelhans&style=for-the-badge" alt="Profile views" />
     <a href="mailto:marvel.hans2809@gmail.com">
